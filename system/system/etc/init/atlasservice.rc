@@ -1,0 +1,4 @@
+service atlasservice /system/bin/atlasservice
+    class main
+    user root
+    group root

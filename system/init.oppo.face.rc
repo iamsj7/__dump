@@ -1,0 +1,5 @@
+on post-fs-data
+    mkdir /data/vendor_de 0770 system system
+    mkdir /data/vendor_de/0 0770 system system
+    mkdir /data/vendor_de/0/facedata 0770 system system
+    mkdir /data/vendor_de/0/faceunlock 0770 system system

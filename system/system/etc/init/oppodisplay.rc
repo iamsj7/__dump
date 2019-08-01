@@ -1,0 +1,5 @@
+service oppodisplay /system/bin/oppodisplay
+    class main
+    user root
+    group root
+

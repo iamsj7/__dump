@@ -1,0 +1,12 @@
+data/app/com.cootek.smartinputv5.language.oem.arabic
+data/app/com.cootek.smartinputv5.language.oem.bengali
+data/app/com.cootek.smartinputv5.language.oem.french
+data/app/com.cootek.smartinputv5.language.oem.kazakh
+data/app/com.cootek.smartinputv5.language.oem.khmer
+data/app/com.cootek.smartinputv5.language.oem.laotian
+data/app/com.cootek.smartinputv5.language.oem.nepali
+data/app/com.cootek.smartinputv5.language.oem.russian
+data/app/com.cootek.smartinputv5.language.oem.sinhala
+data/app/com.cootek.smartinputv5.language.oem.swahili
+data/app/com.cootek.smartinputv5.language.oem.tagalog
+data/app/com.cootek.smartinputv5.language.oem.urdu

@@ -1,0 +1,2 @@
+com.cootek.smartinputv5.language.oem.malayan
+com.cootek.smartinputv5.language.oem.tamil

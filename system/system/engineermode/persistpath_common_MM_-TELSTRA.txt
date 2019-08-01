@@ -1,0 +1,2 @@
+data/app/com.cootek.smartinputv5.language.oem.burmese
+data/app/com.cootek.smartinputv5.language.oem.zawgyi

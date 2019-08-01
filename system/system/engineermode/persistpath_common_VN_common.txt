@@ -1,0 +1,6 @@
+data/app/com.lazada.android
+data/app/com.xb.topnews
+data/app/com.zing.zalo
+data/app/com.zing.mp3
+data/app/com.epi
+data/app/com.vng.inputmethod.labankey

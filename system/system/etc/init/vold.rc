@@ -1,0 +1,18 @@
+service vold /system/bin/vold \
+        --blkid_context=u:r:blkid:s0 --blkid_untrusted_context=u:r:blkid_untrusted:s0 \
+        --fsck_context=u:r:fsck:s0 --fsck_untrusted_context=u:r:fsck_untrusted:s0
+    class core
+    ioprio be 2
+    writepid /dev/cpuset/foreground/tasks
+    shutdown critical
+    group reserved_disk
+
+#ifdef VENDOR_EDIT
+#Xuefeng.Peng@PSW.AD.Usb.Vold.1596362, 2018/12/10, Add for internal sdcard umount
+on property:vold.recovery.mediace=*
+  recovery_recursion /data/media/${vold.recovery.mediace}
+
+on property:vold.destory.recyclece=1
+  delete_recursion /data/.recycle
+#endif/*VENDOR_EDIT*/
+

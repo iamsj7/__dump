@@ -1,0 +1,6 @@
+com.oppo.market
+com.nearme.gamecenter
+com.nearme.browser
+com.coloros.ocrscanner
+com.coloros.ocrservice
+com.coloros.translate.engine

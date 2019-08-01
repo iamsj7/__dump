@@ -1,0 +1,9 @@
+service media-resource-travel-fbe /system/bin/self-init-system travel_media_resource_fbe
+    user root
+    oneshot
+    disabled
+    seclabel u:r:rutilsdaemon:s0
+
+on property:vold.fbe.decrypted=1
+   start media-resource-travel-fbe
+   start media-resource-reconciliation

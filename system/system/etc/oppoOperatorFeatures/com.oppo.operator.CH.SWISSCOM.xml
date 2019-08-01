@@ -1,0 +1,9 @@
+<!-- This file is used by Exp Region: IR.  DO NOT MODIFY. -->
+<permissions>
+  <feature name="systemui.statusbar.show.operator.name" />
+  <feature name="systemui.statusbar.disable.volte.show" />
+  <feature name="oppo.mms.swisscom.retry.strategy" />
+  <feature name="oppo.bluetooth.not.discoverable" />
+  <feature name="oppo.common.wifi.choose.auto_reconnect" />
+  <feature name="oppo.common.wifi.disable.delete_network" />
+</permissions>

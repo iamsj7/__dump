@@ -1,0 +1,3 @@
+data/app/org.kman.AquaMail
+data/app/ru.yandex.searchplugin
+data/app/com.yandex.browser

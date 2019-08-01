@@ -1,0 +1,166 @@
+<filter-conf>
+<version>20161213</version>
+<isOpen>1</isOpen>
+    <filter-name>safe_packageinstall_list</filter-name>
+
+    <textcolorfrom>com.coloros.filemanager</textcolorfrom>
+    <textcolorfrom>com.oppo.filemanager</textcolorfrom>
+
+    <scan_time>1</scan_time>
+
+    <cover_install>1</cover_install>
+
+    <install_clean>1</install_clean>
+
+    <third_app_switch>0</third_app_switch>
+    <third_app_all>0</third_app_all>
+    <third_app_from>com.android.browser</third_app_from>
+    <third_app_from>com.qihoo.expressbrowser</third_app_from>
+    <third_app_from>com.UCMobile.ac</third_app_from>
+    <third_app_from>com.oupeng.browser</third_app_from>
+    <third_app_from>com.baidu.browser.apps</third_app_from>
+    <third_app_from>sogou.mobile.explorer</third_app_from>
+    <third_app_from>com.baidu.searchbox</third_app_from>
+    <third_app_from>com.ijinshan.browser_fast</third_app_from>
+    <third_app_from>com.android.chrome</third_app_from>
+    <third_app_from>com.qihoo.browser</third_app_from>
+    <third_app_from>default_app_browser</third_app_from>
+    <third_app_from>com.tencent.mtt</third_app_from>
+    <third_app_from>com.UCMobile</third_app_from>
+
+    <third_app>com.yingyonghui.market</third_app>
+    <third_app>com.wandoujia.phoenix2</third_app>
+    <third_app>com.tencent.android.qqdownloader</third_app>
+    <third_app>com.taobao.appcenter</third_app>
+    <third_app>com.sogou.appmall</third_app>
+    <third_app>com.sogou.androidtool</third_app>
+    <third_app>com.qihoo.appstore</third_app>
+    <third_app>com.pp.assistant</third_app>
+    <third_app>com.m4399.gamecenter</third_app>
+    <third_app>com.hiapk.marketpho</third_app>
+    <third_app>com.baidu.appsearch</third_app>
+    <third_app>cn.ninegame.gamemanager</third_app>
+    <third_app>gn.com.android.gamehall</third_app>S
+    <third_app>com.yulong.android.gamecenter</third_app>
+    <third_app>com.xiaomi.gamecenter.standalone</third_app>
+    <third_app>com.vivo.game</third_app>
+    <third_app>com.tencent.qqpimsecure:fore</third_app>
+    <third_app>com.smgame.phone</third_app>
+    <third_app>com.ijinshan.ShouJiKong.AndroidDaemon</third_app>
+    <third_app>com.huawei.gamebox</third_app>
+    <third_app>com.dragon.android.pandaspace</third_app>
+    <third_app>com.diguayouxi</third_app>
+    <third_app>com.aspire.mmui</third_app>
+    <third_app>cn.goapk.market</third_app>
+    <third_app>com.tencent.mm</third_app>	<!--20161219 微信符合《ColorOS下载官方应用免检要求》-->
+
+    <black_app>anquanlei.jiemian</black_app>
+
+    <samesource_switch>0</samesource_switch>
+    <samesource_from>com.tencent.mobileqq</samesource_from>
+    <samesource_from>com.tencent.mm</samesource_from>
+
+    <samesource_clearapp>com.tencent.android.qqdownloader</samesource_clearapp>
+    <samesource_time>600</samesource_time>
+
+    <oppo_app>com.android.packageinstaller</oppo_app>
+    <oppo_app>com.alipay.security.mobile.authenticator</oppo_app>
+
+    <button_zh>软件商店安装</button_zh>
+    <button_zt>軟體商店安裝</button_zt>
+    <button_us>AppStore install</button_us>
+
+    <caller_install>com.caller_install.testname</caller_install>
+    <caller_install>com.caller_install.testname</caller_install>
+    <bind_install>com.bind_install.testname</bind_install>
+
+    <black>com.mycheering.launcher</black>
+    <black>com.tylauncher.home</black>
+    <black>com.op.blinking.camera</black>
+    <black>com.cm.hiporn</black>
+    <black>com.bird.sky.whale.camera</black>
+    <black>com.fishing.when.orangecamera</black>
+    <black>com.color.rainbow.camera</black>
+    <black>com.g360.funny.camera</black>
+    <black>com.mag.art.camera</black>
+    <black>com.group.hotcamera</black>
+
+    <black_bind>www.www.test1</black_bind>
+
+    <install_notInstall>#appcaller#apppackage#com.gucdxj.saomiao.test@#app#apppackage#^.*$</install_notInstall>
+    <install_notInstall>#appcaller#apppackage#mmppisofftt.doors.test@#app#apppackage#^.*$</install_notInstall>
+
+    <install_notInstall>#appcaller#apppackage#^.*$@#app#apppackage#com.gucdxj.saomiao</install_notInstall>
+    <install_notInstall>#appcaller#apppackage#^.*$@#app#apppackage#com.mycheering.launcher</install_notInstall>
+    <install_notInstall>#appcaller#apppackage#^.*$@#app#apppackage#com.tylauncher.home</install_notInstall>
+
+    <install_notInstall>#appcaller#apppackage#ww.test@#app#apppackage#w.test</install_notInstall>
+
+    <install_notInstall>#appcaller#apppackage#com.test@#app#apppackage#ww.test</install_notInstall>
+    <install_notInstall>#appcaller#apppackage#com.test@#app#apppackage#com.test2</install_notInstall>
+
+    <install_notInstall>^.*$@#app#appSign#123321123</install_notInstall>
+
+    <version_check_switch>1</version_check_switch>
+
+    <high_version>1</high_version>
+    <same_version>1</same_version>
+    <app_size>10</app_size>
+
+    <account_switch>1</account_switch>
+    <no_account_app>com.yingyonghui.market</no_account_app>
+    <no_account_app>com.wandoujia.phoenix2</no_account_app>
+    <no_account_app>com.tencent.android.qqdownloader</no_account_app>
+    <no_account_app>com.taobao.appcenter</no_account_app>
+    <no_account_app>com.sogou.appmall</no_account_app>
+    <no_account_app>com.sogou.androidtool</no_account_app>
+    <no_account_app>com.qihoo.appstore</no_account_app>
+    <no_account_app>com.pp.assistant</no_account_app>
+    <no_account_app>com.m4399.gamecenter</no_account_app>
+    <no_account_app>com.hiapk.marketpho</no_account_app>
+    <no_account_app>com.baidu.appsearch</no_account_app>
+    <no_account_app>cn.ninegame.gamemanager</no_account_app>
+    <no_account_app>gn.com.android.gamehall</no_account_app>
+    <no_account_app>com.yulong.android.gamecenter</no_account_app>
+    <no_account_app>com.xiaomi.gamecenter.standalone</no_account_app>
+    <no_account_app>com.vivo.game</no_account_app>
+    <no_account_app>com.tencent.qqpimsecure:fore</no_account_app>
+    <no_account_app>com.smgame.phone</no_account_app>
+    <no_account_app>com.ijinshan.ShouJiKong.AndroidDaemon</no_account_app>
+    <no_account_app>com.huawei.gamebox</no_account_app>
+    <no_account_app>com.dragon.android.pandaspace</no_account_app>
+    <no_account_app>com.diguayouxi</no_account_app>
+    <no_account_app>com.aspire.mmui</no_account_app>
+    <no_account_app>com.coolapk.market</no_account_app>
+
+    <no_account_app>com.aspire.mm</no_account_app><!--20161213 移动MM商场-->
+    <no_account_app>com.aspire.popular</no_account_app><!--20161213 移动预置的必备应用-->
+    <no_account_app>com.tencent.mm</no_account_app>	<!--20161219 微信符合《ColorOS下载官方应用免检要求》-->
+
+    <!--浏览器过滤-->
+    <no_account_app>com.android.browser</no_account_app>
+    <no_account_app>com.qihoo.expressbrowser</no_account_app>
+    <no_account_app>com.UCMobile.ac</no_account_app>
+    <no_account_app>com.oupeng.browser</no_account_app>
+    <no_account_app>com.baidu.browser.apps</no_account_app>
+    <no_account_app>sogou.mobile.explorer</no_account_app>
+    <no_account_app>com.baidu.searchbox</no_account_app>
+    <no_account_app>com.ijinshan.browser_fast</no_account_app>
+    <no_account_app>com.android.chrome</no_account_app>
+    <no_account_app>com.qihoo.browser</no_account_app>
+    <no_account_app>default_app_browser</no_account_app>
+    <no_account_app>com.tencent.mtt</no_account_app>
+    <no_account_app>com.UCMobile</no_account_app>
+
+
+    <ad_switch>1</ad_switch>
+    <ad_AB_switch>2</ad_AB_switch>
+
+    <equal_high_switch>1</equal_high_switch>
+    <equal_high_app>com.tencent.android.qqdownloader</equal_high_app>
+    <equal_high_app>com.qihoo.appstore</equal_high_app>
+    <equal_high_app>com.baidu.appsearch</equal_high_app>
+    <equal_high_app>com.wandoujia.phoenix2</equal_high_app>
+    <equal_high_app>com.tencent.mm</equal_high_app>	<!--20161219 微信符合《ColorOS下载官方应用免检要求》-->
+
+</filter-conf>

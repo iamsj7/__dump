@@ -1,0 +1,4 @@
+com.qidian.QDReader.traditional
+com.vova.android
+com.qiyi.video
+ctrip.english

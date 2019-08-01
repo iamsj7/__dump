@@ -1,0 +1,13 @@
+com.cootek.smartinputv5.language.oem.assamese
+com.cootek.smartinputv5.language.oem.bengali
+com.cootek.smartinputv5.language.oem.gujarati
+com.cootek.smartinputv5.language.oem.hindi
+com.cootek.smartinputv5.language.oem.kannada
+com.cootek.smartinputv5.language.oem.marathi
+com.cootek.smartinputv5.language.oem.nepali
+com.cootek.smartinputv5.language.oem.oriya
+com.cootek.smartinputv5.language.oem.punjabi
+com.cootek.smartinputv5.language.oem.tamil
+com.cootek.smartinputv5.language.oem.telugu
+com.cootek.smartinputv5.language.oem.urdu
+com.cootek.smartinputv5.language.oem.malayalam

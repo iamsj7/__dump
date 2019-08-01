@@ -1,0 +1,2 @@
+data/app/com.opera.browser
+data/app/com.opera.preinstall

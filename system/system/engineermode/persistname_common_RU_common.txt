@@ -1,0 +1,3 @@
+org.kman.AquaMail
+ru.yandex.searchplugin
+com.yandex.browser
