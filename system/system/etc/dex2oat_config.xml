@@ -1,0 +1,10 @@
+<dex2oat_config>
+<enabel_switch>true</enabel_switch>
+<monitor_sample_interval>300</monitor_sample_interval>
+<cold_launch_timeout>30000</cold_launch_timeout>
+<cold_launch_min_usage>60</cold_launch_min_usage>
+<cold_launch_max_usage>80</cold_launch_max_usage>
+<normal_max_usage>40</normal_max_usage>
+<cache_cnt_limit>3</cache_cnt_limit>
+<out_of_control>com.tencent.mm/tinker</out_of_control>
+</dex2oat_config>

@@ -1,0 +1,6 @@
+<!-- This file is used by Exp Region: IR.  DO NOT MODIFY. -->
+<permissions>
+  <feature name="oppo.systemui.disable.navigationicon" />
+  <feature name="oppo.cellbroadcast.uq.special.channel.config" />
+  <feature name="oppo.apn.kddi.show_uq_apn" />
+</permissions>

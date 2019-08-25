@@ -1,0 +1,46 @@
+
+<permissions>
+    <feature name="oppo.feature.18627" />
+    <!-- Zeqi.Shen@AD.Fingerprint.1127478, 2017/10/29, add for fingerpirnt feature -->
+    <feature name="android.hardware.fingerprint" />
+    <feature name="oppo.back.touch.fingerprint.sensor" />
+    <!--feature name="oppo.hardware.fingerprint.optical.support" /-->
+    <!-- Xiaori.Yuan@PSW.Multimedia.Display.Service.Feature, 2018/05/22, Add for roundcorner -->
+    <feature name="oppo.roundcorner.support" />
+    <!-- Xiaori.Yuan@Display.Service.Feature, 2018/05/24, Add this for protect eyes -->
+    <feature name="oppo.eyeprotect.support" />
+    <!-- Xiaori.Yuan@Display.Service.Feature, 2018/07/27, Add this for fingerprint -->
+    <feature name="oppo.fingerprint.disable.dimlayer" />
+    <!-- YaoJun.Luo@ROM.SDK, 2018/05/12, add support display compat-->
+    <feature name="oppo.display.compat.support" />
+    <feature name="com.oppo.feature.screen.heteromorphism" />
+    <!-- Yuan.Huang@PSW.CN.WiFi.Network.internet.1197891, 2018/08/24, Add for SLA feature -->
+    <!-- YunRui.Chen@RM.BSP.TP.Funtion, 2018/12/10, Add for blackgesture -->
+    <feature name="oppo.lcd.first.tp.last.support"/>
+    <!-- #ifdef VENDOR_EDIT-->
+    <!-- Guilai.Ming@RM.CN.WiFi.Network.internet, 2018/11/23 Close this feature for 18627 -->
+    <!-- <feature name="oppo.wlan.sla.support" /> -->
+    <!-- #endif VENDOR_EDIT-->
+
+    <!-- #ifdef VENDOR_EDIT-->
+    <!-- Wang.kun@MM.AudioDriver.feature, 2019/1/12, Remove for ovs smartmic support on 18621-->
+    <!-- <feature name="oppo.ovs.smartmic.support" /> -->
+    <!-- #endif VENDOR_EDIT-->
+
+    <!-- DunHui.Ye@PSW.RM.Android, 2019/03/12, add for low memory -->
+    <feature name="oppo.lowramclear.support" />
+    <feature name="oppo.rom.lowram.support" />
+    <!-- DunHui.Ye@PSW.RM.Android, 2019/01/19, add for compress memory -->
+    <!-- <feature name="athena.compress.boot" /> -->
+    <!-- <feature name="athena.compress.screenoff" /> -->
+    <!-- fanlijun@RM.AD.fingerprint, 2019/01/02, add for fingerprint keymode -->
+    <feature name="oppo.camera.fingerprint.shutter" />
+    <!-- Zeke.Shi@RM.MM.Display.Feature, 2019/01/07, Add for cabc dynamic level support -->
+    <feature name="cabc.level.dynamic.enable" />
+    <!-- Binqiang.Luo@RM.AD.Input.1729806, 2019/02/15, Add for camera anti-shake support -->
+    <feature name="oppo.camera.antishake.support" />
+    <!-- Weixiong.Shi@RM.AD.OppoFeature.CommonSoft.0, 2019/03/22, Add for oppo market control by nvflag -->
+    <feature name="oppo.oppomarket.flaginstall"/>
+    <!-- Junhao.Liang@PSW.AD.FaceRecognition.1070880, 2018/06/19, Add for no power block -->
+    <feature name="oppo.hardware.face.nopowerblock" />
+</permissions>

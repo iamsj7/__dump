@@ -1,0 +1,2 @@
+com.opera.browser
+com.opera.preinstall

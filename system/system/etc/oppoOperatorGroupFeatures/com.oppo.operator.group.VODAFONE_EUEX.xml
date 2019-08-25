@@ -1,0 +1,5 @@
+<!-- This file is used by Exp Region: IR.  DO NOT MODIFY. -->
+<permissions>
+  <feature name="oppo.bluetooth.not.discoverable" />
+  <feature name="oppo.mms.replace.google.mms" />
+</permissions>

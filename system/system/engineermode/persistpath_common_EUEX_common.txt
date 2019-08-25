@@ -1,0 +1,2 @@
+data/app/org.kman.AquaMail
+data/app/FacebookStub

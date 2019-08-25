@@ -1,0 +1,8 @@
+data/app/com.fetself
+data/app/com.walkgame.ismarttv
+data/app/com.fet.fetneticon
+data/app/com.gohappy.mobileapp
+data/app/com.fet.fridaywallet
+data/app/com.omusic.gPhone
+data/app/net.fetnet.fetvod
+data/app/com.hiiir.fridayshoppingplus

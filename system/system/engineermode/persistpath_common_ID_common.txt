@@ -1,0 +1,9 @@
+data/app/com.qidian.Int.reader
+data/app/com.lazada.android
+data/app/com.ss.android.ugc.trill
+data/app/id.co.babe
+data/app/com.jakarta.baca.lite
+data/app/com.msd.JTClient
+data/app/com.vova.android
+data/app/cn.wps.moffice_eng
+data/app/com.realmecomm.app

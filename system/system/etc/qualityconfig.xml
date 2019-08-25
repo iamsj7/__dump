@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<filter-conf>
+    <!--function for rom update parameter-->
+    <version>2019041900</version>
+    <isOpen>1</isOpen>
+    <filter-name>sys_quality_config</filter-name>
+    <switch name="TotalSwitch" value="1"></switch>
+    <switch name="UpdateCpuStats" value="1"></switch>
+    <switch name="LaunchTime" value="1"></switch>
+    <switch name="BlackScreen" value="1"></switch>
+    <switch name="SlowOperation" value="1"></switch>
+    <switch name="Iozone1" value="0"></switch>
+    <switch name="Iozone2" value="0"></switch>
+    <switch name="Choreographer" value="1"></switch>
+    <switch name="IONCountSwitch" value="1"></switch>
+    <switch name="PartitionCheckSwitch" value="0"></switch>
+    <switch name="FileCheckSwitch" value="1"></switch>
+    <switch name="LowMemLog" value="10"></switch>
+    <switch name="memmonitorLog" value="0"></switch>
+    <switch name="memleakLog" value="0"></switch>
+    <switch name="launchLog" value="1"></switch>
+    <switch name="fsyncLog" value="0"></switch>
+    <switch name="systraceLog" value="1"></switch>
+    <switch name="forceStartSystraceLog" value="0"></switch>
+    <command result="ps-A.txt">ps -A</command>
+    <execute name="ohmctrl" value="echo ohmctrl1048575 > proc/oppo_healthinfo/para_update"></execute>
+    <execute name="ohmlogon" value="echo ohmlogon8197 > proc/oppo_healthinfo/para_update"></execute>
+    <execute name="ohm_action_ctrl" value="echo 1 > sys/module/oppo_healthinfo/parameters/ohm_action_ctrl"></execute>
+    <execute name="ohmtrig" value="echo ohmtrig8192 > proc/oppo_healthinfo/para_update"></execute>
+    <execute name="ohmparaupdate" value="echo ohmparaupdate > proc/oppo_healthinfo/para_update"></execute>
+</filter-conf>

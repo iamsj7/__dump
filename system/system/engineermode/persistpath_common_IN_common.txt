@@ -1,0 +1,11 @@
+data/app/in.amazon.mShop.android.shopping
+data/app/net.one97.paytm
+data/app/in.mohalla.sharechat
+data/app/com.eterno
+data/app/com.til.timesnews
+data/app/com.UCMobile.intl
+data/app/com.bsbportal.music
+data/app/com.qidian.Int.reader
+data/app/cn.wps.moffice_eng
+data/app/com.realmecomm.app
+data/app/com.realmestore.app

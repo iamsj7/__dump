@@ -1,0 +1,11 @@
+in.amazon.mShop.android.shopping
+net.one97.paytm
+in.mohalla.sharechat
+com.eterno
+com.til.timesnews
+com.UCMobile.intl
+com.bsbportal.music
+com.qidian.Int.reader
+cn.wps.moffice_eng
+com.realmecomm.app
+com.realmestore.app

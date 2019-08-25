@@ -1,0 +1,2 @@
+com.oppo.market
+com.nearme.gamecenter

@@ -1,0 +1,6 @@
+<!-- This file is used by Exp Region: IR.  DO NOT MODIFY. -->
+<permissions>
+  <feature name="oppo.opposimsettings.forbid.edit.sim.number" />
+  <feature name="oppo.phone.forbid.edit.voicemail.number" />
+  <feature name="oppo.phone.roam.call.show.dialog" />
+</permissions>
