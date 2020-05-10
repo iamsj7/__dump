@@ -1,0 +1,13 @@
+# sdm710-user 10 QKQ1.190918.001  release-keys
+- manufacturer: 
+- platform: sdm710
+- codename: 
+- flavor: sdm710-user
+- release: 10
+- id: QKQ1.190918.001
+- incremental: 
+- tags: release-keys
+- fingerprint: 
+- brand: 
+- branch: sdm710-user-10-QKQ1.190918.001--release-keys
+- repo: __dump
